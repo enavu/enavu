@@ -1,7 +1,7 @@
 ## Ena Vu
 
 **Data & AI engineer. I live in pipelines, infrastructure, and agentic AI systems.**
-Denver, CO · Accenture · [linkedin.com/in/enavu](https://linkedin.com/in/enavu)
+Denver, CO · [linkedin.com/in/enavu](https://linkedin.com/in/enavu)
 
 ---
 
@@ -24,12 +24,31 @@ Self-hosted AI automation hub, built entirely with Claude Code.
 
 `Go` `Python` `TypeScript` `Next.js` `PostgreSQL` `Redis` `MongoDB`
 `Claude API` `Playwright` `Home Assistant` `Docker` `Caddy` `Azure` `Cloudflare`
+`AWS` `Databricks` `Snowflake` `DynamoDB` `C#` `.NET` `Scala`
+
+---
+
+### Experience
+
+| Period | Role | Company |
+|--------|------|---------|
+| 2025 – present | Software Engineer Advisory Manager | Accenture |
+| 2022 – 2025 | Lead Data Architect Manager | Avanade |
+| 2021 – 2022 | Data Engineer | Avanade |
+| 2018 – 2021 | Data Engineer Lead → Manager | Charter Communications |
+| 2018 – 2019 | Solutions Developer | Avanade |
+| 2017 – 2018 | Consultant / Developer | Brainspire Solutions |
+| 2014 – 2017 | Senior Programmer Analyst | Office of the Independent Monitor |
+| 2011 – 2014 | Project Coordinator → Database Developer | University of Colorado Denver |
+
+10+ years across data engineering, software development, and AI systems.
+Healthcare · Telecom · Finance · Manufacturing · Government · Consulting.
 
 ---
 
 ### Also
 
-Co-founder of Mainstream Nails since 2013.
+Co-founder of [Mainstream Nails](https://mainstreamnails.com) since 2013.
 Creativity and engineering aren't that different.
 
 ---
